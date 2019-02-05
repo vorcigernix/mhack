@@ -1,0 +1,24 @@
+// react
+@import '@material/react-chips/index';
+@import '@material/react-top-app-bar/index';
+@import '@material/react-button/index';
+
+// web
+@import '@material/typography/mdc-typography';
+@import '@material/theme/mdc-theme';
+
+// mixins
+@import '@material/top-app-bar/mixins';
+@import '@material/chips/mixins';
+@import '@material/chips/variables';
+@import '@material/shape/mixins';
+@import "@material/button/mixins";
+
+$primary-color-dark:   #512DA8;
+$primary-color:        #673AB7;
+$primary-color-light:  #D1C4E9;
+$primary-color-text:   #FFFFFF;
+$accent-color:         #607D8B;
+$primary-text-color:   #212121;
+$secondary-text-color: #757575;
+$divider-color:        #BDBDBD;
